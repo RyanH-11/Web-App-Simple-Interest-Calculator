@@ -1,21 +1,21 @@
 body {
     background-color: black; 
     font-family: arial; 
-    color: white;
+    color: white
 }
 
 h1 {
     color: grey; 
-    font-family: verdana;
+    font-family: verdana
 }
 
 .maindiv {
     background-color: white;
     color: black;
-    width: 300 px;
-    padding: 20 px;
-    border-radius: 25 px;
     margin: auto;
+    width: 300px;
+    padding: 20 px;
+    border-radius: 25 px
 }
 
 
